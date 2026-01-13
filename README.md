@@ -1,6 +1,3 @@
-# Database_Carving-InSQL
-Đề tài được thực hiện nhằm đánh giá tính khả thi và hiệu quả của kỹ thuật Database Carving trong việc phát hiện các hành vi vi phạm bảo mật, đặc biệt trong các tình huống Audit Log bị vô hiệu hóa.
-
 <div align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Logo_Hoc_vien_Ky_thuat_Mat_ma.png" alt="KMA Logo" width="120" height="120">
   <h1>Database_Carving-InSQL</h1>
