@@ -98,7 +98,6 @@ Sau khi chạy thực nghiệm, công cụ đã phát hiện thành công các h
 
 * **Sinh viên thực hiện:**
     * Nguyễn Trung Kiên (AT200432)
-    * Nguyễn Văn Khánh (AT200430)
 * **Giảng viên hướng dẫn:** ThS. Nguyễn Thị Thu Thuỷ
 
 ---
